@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://amitdubey.io)
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-  <img align="right" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMxMmJmYTU2YjVjNGY4ZmQ4NDY3MjFhY2MxYTMyYjg1MGI3NmY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" />
+  <img align="right" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrisedubey&label=Profile%20views&color=0e75b6&style=flat" alt="amitrisedubey" /> </p>
 
