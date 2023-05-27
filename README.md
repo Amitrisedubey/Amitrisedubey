@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [gffgfggd](gffgfggd)
+- 👨‍💻  my portfolio available at [https://portfolioamitloki.vercel.app/](gffgfggd)
 
 - 💬 Ask me about **React , MERN**
 
